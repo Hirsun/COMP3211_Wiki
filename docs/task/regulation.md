@@ -5,7 +5,7 @@ order: 4
 headerDepth: 2
 ---
 
-# Requirement and Standard
+# Regulation and Standard
 
 ## 行动守则
 
@@ -31,20 +31,4 @@ headerDepth: 2
   - 不要对 DDL 延期抱有任何的幻想 😅
   - 今天有今天的事，明天有明天的事，永远不知道未来会有什么事发生。早点做省着夜长梦多。
 
-## 成员基本能力要求
-
-截至开始项目，每个成员应当具备以下能力
-
-- 掌握 COMP4342 课程核心思想
-- 掌握 Android Studio 基本功能
-- 流利运用 Java 基础特性和高级特性进行OOP编程
-- 了解 Android 系统框架和 SDK
-- 掌握 Android 开发技巧
-
-::: tip 参考学习材料
-
-- Youtube：从0开始 Android 开发 Tutorial，视频（强烈建议）
-- 现实业务讲座：ByteDance Android 入职培训材料，视频（强烈建议）
-- 案例学习（强烈建议）
-
-:::
+## ~~成员基本能力要求~~

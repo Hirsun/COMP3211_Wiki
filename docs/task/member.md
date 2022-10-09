@@ -10,25 +10,19 @@ headerDepth: 2
 
 # 成员简介
 
-## 耿珑玲
-
-- 邮箱：
-- 20级 HK POLYU COMP
-- 个人简介：
-
 ## 裴昱行
 
 - 邮箱：
 - 20级 HK POLYU COMP
 - 个人简介：
 
-## 舒坤鑫
+## 马遂之
 
 - 邮箱：
 - 20级 HK POLYU COMP
 - 个人简介：
 
-## 王鸣
+## 刘云飞
 
 - 邮箱：
 - 20级 HK POLYU COMP

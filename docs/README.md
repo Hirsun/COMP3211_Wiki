@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: COMP4342 G15
-tagline: 移动计算小组项目 Wiki 
+heroText: COMP3211 G11
+tagline: Software Engineering GRP Project Wiki 
 actions:
   - text: 开发文档
     link: dev
@@ -22,12 +22,12 @@ features:
 
   - title: 开发文档
     icon: write
-    details: 第一项需要提交的任务<br >占比20%
+    details: Development<br >Documentation
     link: dev/env.html
 
   - title: 用户文档
     icon: community
-    details: 第二项需要提交的任务<br >占比30%
+    details: User<br >Documentation
     link: user
 
   - title: 帮助中心
@@ -37,13 +37,13 @@ features:
 
 
 copyright: false
-footer: GPL3.0 Licensed | Copyright © 2022 GRP15
+footer: GPL3.0 Licensed | Copyright © 2022 GRP11
 ---
 
 ::: tip 团队协作
 
-- **Due Time: 23:59 PM, November 22, 2022 (11月22日)**  
-- 项目共同目标：20+ / 22
+- Due Time: 
+- 项目共同目标：
 
 请尽可能保证Wechat 和 Microsoft Teams 在线，以免错过重要通知。
 

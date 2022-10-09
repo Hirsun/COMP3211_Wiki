@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://hirsun.github.io/CLC3242P_Wiki/",
+  hostname: "https://hirsun.github.io/COMP3211_Wiki/",
 
   author: {
-    name: "GRP15",
-    url: "https://hirsun.github.io/COMP4342_Wiki/",
+    name: "GRP11",
+    url: "https://hirsun.github.io/COMP3211_Wiki/",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "hirsun/COMP4342_Wiki",
+  repo: "hirsun/COMP3211_Wiki",
 
   docsDir: "docs",
 

@@ -22,7 +22,7 @@ headerDepth: 2
 - [x] 构建 Microsoft Project
   - [ ] 配置 访问权限
 - [ ] 整理建议学习材料
-- [ ] 在 Blackboard 系统上注册小组，DDL： 2022年10月4日（第6周）晚上23:59
+- [ ] 在 Blackboard 系统上注册小组
 
 ::: tip 最基本的软件工程活动
 
@@ -45,7 +45,6 @@ headerDepth: 2
 - [ ] 制定软件过程模型（软件开发生命周期）
 - [ ] 整理程序需要的框架
 - [ ] 软件的体系架构设计
-- [ ] 项目大纲填写，DDL： 2022年10月4日（第6周）晚上23:59
 - [ ] 项目甘特图制作
 - [ ] MS Teams 任务卡制作
 - [ ] 紧急情况安排：成员因病请假等
@@ -135,15 +134,7 @@ headerDepth: 2
 
 - [ ] Wiki 英文化
 - [ ] 打包需要提交的文件
-  - APK 文件
-  - APK 安装指南
-  - Server 安装指南
 - [ ] 项目组长批准最终提交版本
-  - [ ] 王鸣审核通过 Final Version
-  - [ ] 裴昱行审核通过 Final Version
-  - [ ] 舒坤鑫审核通过 Final Version
-  - [ ] 耿珑玲审核通过 Final Version
-  - [ ] 韩佳明审核通过 Final Version
 - [ ] 计算每一个提交文件的 SHA256，并留存
 - [ ] 检查 MS Teams 文件留存情况
 - [ ] 项目提交至 Blackboard

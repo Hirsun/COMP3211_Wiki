@@ -3,10 +3,10 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "COMP4342 G15",
-  description: "移动计算小组项目 Wiki",
+  title: "COMP3211 G11",
+  description: "SE GRP-Project Wiki",
 
-  base: "/COMP4342_Wiki/",
+  base: "/COMP3211_Wiki/",
 
   theme,
 });
