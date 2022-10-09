@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://hirsun.github.io/CLC3242P_Wiki/COMP4342_Wiki/sitemap.xml
+Sitemap: https://hirsun.github.io/COMP3211_Wiki/COMP3211_Wiki/sitemap.xml
