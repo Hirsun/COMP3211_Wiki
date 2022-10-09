@@ -1,2 +1,2 @@
-# COMP4342_Wiki
-Wiki for COMP4342
+# COMP3211_Wiki
+Wiki for COMP3211
