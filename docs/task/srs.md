@@ -320,7 +320,7 @@ Users of the system should easily know which side he or she is in.
 
 <img src="https://static-file.hjm.red/2022/10/12/d13c5a05bff16.png" alt="1665589037863.png" style="zoom:33%;" />
 
-<center> Figure 8: MVC Model [4]</center>
+Figure 8: MVC Model [4]
 
 MVC  Model is shown as Figure8.
 
