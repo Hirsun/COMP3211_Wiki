@@ -46,17 +46,17 @@ The main deliverable of this project is a game called "The Jungle Game". This ga
 ## Glossary
 
 - Developers: All designers, programmers and testing engineers involved in the development of this project.
-- The Jungle Game：A modern Chinese board game with an obscure history. More descriptions are available at Wikipedia[^1].
-- Github: An Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project [^2].
-- Git: A free and open-source software for distributed version control, tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development [^3].
-- Model-View-Controller (MVC): A software design pattern that divides software system components into three parts. Model is the data structures specified for the software system and the logic of the running system. View is to render and display components in Model in a proper format. Controller makes respond to inputs and modify the system state.[^4].
-- Maven: A popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management. The tool provides allows developers to build and document the lifecycle framework [^5]. 
-- Gradle: A build automation tool known for its flexibility to build software. A build automation tool is used to automate the creation of applications [^6].  
-- Docker: An open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications [^7]. 
+- The Jungle Game：A modern Chinese board game with an obscure history. More descriptions are available at Wikipedia.
+- Github: An Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+- Git: A free and open-source software for distributed version control, tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+- Model-View-Controller (MVC): A software design pattern that divides software system components into three parts. Model is the data structures specified for the software system and the logic of the running system. View is to render and display components in Model in a proper format. Controller makes respond to inputs and modify the system state.
+- Maven: A popular open-source build tool developed by the Apache Group to build, publish, and deploy several projects at once for better project management. The tool provides allows developers to build and document the lifecycle framework. 
+- Gradle: A build automation tool known for its flexibility to build software. A build automation tool is used to automate the creation of applications.  
+- Docker: An open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. 
 
 ## User Requirements Definition
 
-### General Functionality [^8]
+### General Functionality 
 
 The major delivery expected by the customers should be a game.  
 
@@ -66,7 +66,7 @@ The major delivery expected by the customers should be a game.
 
 The player who is first to maneuver any one of their pieces into the opponent's den should win the game. An alternative way to win shall be to capture all the opponent's pieces.  
 
-### Critical Rules [^1]
+### Critical Rules
 
 #### Board
 
@@ -145,15 +145,15 @@ This game might be divided into three critical parts, as shown in Figure5.
 
 <img src="https://static-file.hjm.red/2022/10/10/27add34e167f0.png" alt="1665340205051.png" style="zoom: 22%;" />
 
-<center> Figure 5: Critical parts of the Game. </center>
+Figure 5: Critical parts of the Game. 
 
 <img src="https://static-file.hjm.red/2022/10/12/cac84e7971df4.jpg" alt="1441665588116_.pic.jpg" style="zoom:10%;" />
 
-<center> Figure 6: object class diagram of Controller. </center>
+Figure 6: object class diagram of Controller. 
 
 <img src="https://static-file.hjm.red/2022/10/12/c0dc52740427f.png" alt="WechatIMG143.png" style="zoom:15%;" />
 
-<center> Figure 7: object class diagram of View. </center>
+Figure 7: object class diagram of View.
 
 ## System Requirements Specification
 
@@ -341,8 +341,6 @@ MVC  Model is shown as Figure8.
 3. User input of the capture process
 4. User modifications of the commands after receiving notifications
 5. User input of functional operations (such as exit, start a new game, etc.
-
-
 
 
 
